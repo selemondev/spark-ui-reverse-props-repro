@@ -10,7 +10,7 @@ const div2Ref = ref()
 
 <template>
     <div class="flex flex-col space-y-3">
-        <h1 class="font-medium text-lg">Reverse component ( With the reverse prop)</h1>
+        <h1 class="font-medium text-lg">Reverse component ( With the reverse prop )</h1>
         <div ref="containerRef"
             class="relative flex w-full max-w-[500px] items-center justify-center overflow-hidden rounded-lg border bg-background p-10 md:shadow-xl">
             <div class="flex size-full flex-col items-stretch justify-between gap-10">
